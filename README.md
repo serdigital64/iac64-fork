@@ -1,23 +1,50 @@
-# Project: IAC64
+# iac64-X_PROJECT_X
 
-## Overview
+![License](https://img.shields.io/github/license/X_GITHUB_OWNER_X/iac64-X_PROJECT_X)
+![GitHub stars](https://img.shields.io/github/stars/X_GITHUB_OWNER_X/iac64-X_PROJECT_X?style=social)
+![GitHub forks](https://img.shields.io/github/forks/X_GITHUB_OWNER_X/iac64-X_PROJECT_X?style=social)
 
-Infrastructure-As-Code reference repository structure
+---
 
-## Contributing
+- [iac64-X_PROJECT_X](#iac64-x_project_x)
+  - [📌 Overview](#-overview)
+  - [🛠 Contributing](#-contributing)
+  - [⚠️ Disclaimer](#️-disclaimer)
+  - [📜 License](#-license)
+  - [👤 Author](#-author)
 
-Help on implementing new features and maintaining the code base is welcomed.
+---
 
-- [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)
+## 📌 Overview
 
-## Disclaimer
+X_OVERVIEW_X
 
-This repository is provided "as is" without any warranties and is intended solely for educational purposes. The author is not responsible for any damages or issues arising from its use. Additionally, this project is not affiliated with or endorsed by any organization or entity. Use at your own risk.
+---
 
-## License
+## 🛠 Contributing
 
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
+Contributions are welcome! Help us improve by submitting issues, feature requests, or pull requests.
 
-## Author
+- [Code of Conduct](https://github.com/X_GITHUB_OWNER_X/iac64-X_PROJECT_X/blob/main/CODE_OF_CONDUCT.md)
 
-- [SerDigital64](https://github.com/serdigital64)
+---
+
+## ⚠️ Disclaimer
+
+This repository is provided "as is" without any warranties. The author is not responsible for any damages or issues arising from its use. Additionally, this project is not affiliated with or endorsed by any organization or entity. Use at your own risk.
+
+---
+
+## 📜 License
+
+**iac64-X_PROJECT_X** is licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt).
+
+---
+
+## 👤 Author
+
+- X_AUTOR_X
+
+---
+
+🌟 **If you find this project useful, consider giving it a star!** ⭐
